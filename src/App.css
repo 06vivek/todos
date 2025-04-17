@@ -1,0 +1,44 @@
+/* .container{
+  width:  400px;
+  margin: 50px auto;
+  text-align: center;
+  font-family: Arial;
+}
+
+.inputs{
+  display: flex;
+  justify-content: center;
+
+  margin-Bottom: 20px;
+}
+input{
+  padding: 10px;
+  width: 60%;
+  font-Size: 16px;
+}
+
+.deletbtn{
+  background: red;
+  color:black;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-Radius: 3px;
+}
+.addbtn{
+  background: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-Radius: 3px;
+}
+.listitems{
+    margin: 10px 0;
+    padding: 10px;
+    border-Radius: 5px;
+    display: flex;
+    justify-Content: space-between;
+    align-Items: center;
+ 
+} */
