@@ -84,13 +84,13 @@ function AddTask() {
                 onClick={() => navigate(`/addtask?Id=${todo.id}`)}
                 className="bg-yellow-800 p-2 rounded"
               >
-                Edit
+                EDIT
               </button>
               <button
                 onClick={() => handledelete(todo.id)}
                 className="bg-red-800 p-2  rounded"
               >
-                Delete
+                DELETE
               </button>
             </div>
           </li>
